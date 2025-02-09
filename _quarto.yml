@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Simulation for Coordination of Orthopaedic Emergency Services"
+  favicon: QUARTO/images/SCOPElogo.png
+  page-footer: This website was created with [Quarto](https://quarto.org/)
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar: 
+    logo: QUARTO/images/SCOPE.png
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right-body
+    number-sections: true
+    number-depth: 3
+    freeze: auto
+    logo:
+      path: "QUARTO/images/SCOPE.png"
+      width: 2in
+
+editor: visual
+
