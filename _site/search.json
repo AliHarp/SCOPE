@@ -1,30 +1,23 @@
 [
   {
-    "objectID": "SCOPE/about.html",
-    "href": "SCOPE/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+    "text": "This scoping project is funded by LEAP Digital Health Hub.\nIt is a collaboration between:\n\nUniversity of Exeter Business School Centre for Simulation, Analyics and Modelling (CSAM):-\n\nDr Alison Harper\nProf Nav Mustafee\n\nUniversity of Exeter Medical School:-\n\nDr Thomas Monks\nDr Jon T. Evans\nWe are partnered with:\n\nRoyal Devon University Hospitals Trust (RDUH)"
+  },
+  {
+    "objectID": "about.html#scope-simulation-for-coordination-of-orthopaedic-patient-emergency-services",
+    "href": "about.html#scope-simulation-for-coordination-of-orthopaedic-patient-emergency-services",
+    "title": "",
+    "section": "",
+    "text": "This scoping project is funded by LEAP Digital Health Hub.\nIt is a collaboration between:\n\nUniversity of Exeter Business School Centre for Simulation, Analyics and Modelling (CSAM):-\n\nDr Alison Harper\nProf Nav Mustafee\n\nUniversity of Exeter Medical School:-\n\nDr Thomas Monks\nDr Jon T. Evans\nWe are partnered with:\n\nRoyal Devon University Hospitals Trust (RDUH)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SCOPE",
+    "title": "SCOPE: Simulation for Coordination of Orthopaedic Patient Emergency Services",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "SCOPE/index.html",
-    "href": "SCOPE/index.html",
-    "title": "SCOPE",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+    "text": "Orthopaedic elective waiting lists are a well-publicized NHS challenge. While currently at record waits, this problem is not new, and one contributing factor is the need to simultaneously manage unpredictable emergency arrivals with scheduled elective care.\n\n\n\n\nDiscrete-event simulation (DES) is a computational method used to model complex queuing systems, enabling experimentation with the model instead of the real system. Previous work has modelled elective orthopaedic services, but not both elective and emergency care, nor accounted for additional complexity, such as a deteriorating physical condition. This is methodologically challenging using DES alone.\nIn this project, agent-based simulation and DES will be integrated to combine the strengths of the two methods, creating a more robust simulation that better captures system complexities. We will provide a bespoke user-interface for our NHS partners, enabling experimentation with the model. This will include transferring more complex patients to SWAOC, and modelling winter pressures.\nUsing Python, we will take a best practice open science approach, ensuring model transparency, reproducibility, and longevity. We will investigate reusability of hybrid model components for wider NHS planning. Our scoping work and prototype model will inform an ESRC New Investigator grant.\n\n\n\n\n\n Back to top"
   }
 ]
