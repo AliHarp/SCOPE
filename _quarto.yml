@@ -15,6 +15,9 @@ website:
         menu: 
           - text: Source code
             href: https://github.com/AliHarp/SCOPE
+            aria-label: GitHub
+      - icon: linkedin
+        menu:
           - text: LEAP Digital Health Hub
             href: https://www.linkedin.com/showcase/leap-dh-hub/posts/?feedView=all
     logo: QUARTO/images/SCOPE.png
