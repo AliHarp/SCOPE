@@ -3,16 +3,14 @@ title: ""
 ---
 
 :::::: columns
-::: {.column width="20%"}  
-
-![](QUARTO/images/leap.png){width="100%"}  
-
-
-![](QUARTO/images/exeter.png){width="100%"}  
+::: {.column width="20%"}
+![](QUARTO/images/LEAP/LEAP_Logo_Red-300.png){width="100%"}
+![](QUARTO/images/LEAP/EPSRC.png){width="100%"}
 
 
-![](QUARTO/images/RDUH.png){width="100%"}  
+![](QUARTO/images/exeter.png){width="100%"}
 
+![](QUARTO/images/RDUH.png){width="100%"}
 :::
 
 ::: {.column width="10%"}
@@ -22,7 +20,7 @@ title: ""
 ::: {.column width="50%"}
 ## SCOPE: Simulation for Coordination of Orthopaedic Patient Emergency Services
 
-This scoping project is funded by [LEAP Digital Health Hub](https://leap-hub.ac.uk/about-the-hub/)
+This work has been supported by the [LEAP Digital Health Hub](https://leap-hub.ac.uk/about-the-hub/), which has been funded by EPSRC under grant number EP/X031349/1.
 
 It is a collaboration between:
 
