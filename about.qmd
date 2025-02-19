@@ -4,12 +4,14 @@ title: ""
 
 :::::: columns
 ::: {.column width="20%"}
-![](QUARTO/images/LEAP/LEAP_Logo_Red-300.png){width="100%"}
+![](QUARTO/images/LEAP/LEAP_Logo_Red-300.png){width="100%"}  
+
+
 ![](QUARTO/images/LEAP/EPSRC.png){width="100%"}  
 
 
+![](QUARTO/images/exeter.png){width="100%"}  
 
-![](QUARTO/images/exeter.png){width="100%"}
 
 ![](QUARTO/images/RDUH.png){width="100%"}
 :::
@@ -27,12 +29,12 @@ It is a collaboration between:
 
 University of Exeter Business School Centre for Simulation, Analyics and Modelling (CSAM):-
 
--   Dr Alison Harper  
+-   Dr Alison Harper\
 -   Prof Nav Mustafee
 
 University of Exeter Medical School:-
 
--   Dr Thomas Monks  
+-   Dr Thomas Monks\
 -   Dr Jon T. Evans
 
 We are partnered with:
