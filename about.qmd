@@ -5,7 +5,8 @@ title: ""
 :::::: columns
 ::: {.column width="20%"}
 ![](QUARTO/images/LEAP/LEAP_Logo_Red-300.png){width="100%"}
-![](QUARTO/images/LEAP/EPSRC.png){width="100%"}
+![](QUARTO/images/LEAP/EPSRC.png){width="100%"}  
+
 
 
 ![](QUARTO/images/exeter.png){width="100%"}
@@ -24,15 +25,15 @@ This work has been supported by the [LEAP Digital Health Hub](https://leap-hub.a
 
 It is a collaboration between:
 
--   University of Exeter Business School Centre for Simulation, Analyics and Modelling (CSAM):-
+University of Exeter Business School Centre for Simulation, Analyics and Modelling (CSAM):-
 
-Dr Alison Harper\
-Prof Nav Mustafee
+-   Dr Alison Harper  
+-   Prof Nav Mustafee
 
--   University of Exeter Medical School:-
+University of Exeter Medical School:-
 
-Dr Thomas Monks\
-Dr Jon T. Evans
+-   Dr Thomas Monks  
+-   Dr Jon T. Evans
 
 We are partnered with:
 
