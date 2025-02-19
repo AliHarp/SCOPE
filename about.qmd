@@ -28,7 +28,7 @@ title: ""
 ::: {.column width="50%"}
 ## SCOPE: Simulation for Coordination of Orthopaedic Patient Emergency Services
 
-This scoping project is funded by [LEAP Digital Health Hub](https://leap-hub.ac.uk/about-the-hub/).
+This scoping project is funded by [LEAP Digital Health Hub](https://leap-hub.ac.uk/about-the-hub/)
 
 It is a collaboration between:
 
