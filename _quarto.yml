@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  title: ""
+  favicon: QUARTO/images/SCOPElogo.png
+  page-footer: This website was created with [Quarto](https://quarto.org/)
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    background: "#0b2b42"
+    foreground: "#bec0c1" 
+    tools:
+      - icon: github
+        menu: 
+          - text: Source Code
+            href: https://github.com/AliHarp
+    logo: QUARTO/images/SCOPE.png
+    right:
+      - href: index.qmd
+        text: "{{< fa house title='HOME' >}}HOME"
+      - text: "{{< fa circle-info title='ABOUT' >}}ABOUT"
+        href: about.qmd
+        
+  sidebar:
+    style: "docked"
+    background: "#fee8e7"
+    contents:
+      - text: "Literature: Orthopaedic modelling"    
+format:
+  html:
+    theme: 
+      light: styles.scss
+    toc: true
+    toc-location: right-body
+    number-sections: false
+    number-depth: 3
+    freeze: auto
+    page-layout: full 
+    grid:
+      sidebar-width: 400px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
+
+editor: visual
+

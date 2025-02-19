@@ -1,0 +1,66 @@
+/*-- scss:defaults --*/
+
+.navbar-brand img { 
+  max-height: 200px;
+  width: auto;
+}
+
+// colours exeter branding
+$night-green: #022020;
+$dark-green: #003c3c;
+$deep-green: #007d69;
+$rich-green: #00c896;
+$bright-green: #00dca5;
+$highlight-green: #00dca5;
+
+$white: #ffffff;
+
+$coral-orange: #fc4c02;
+$coral-orange75: #fd834e;
+$coral-orange50: #fea681;
+$coral-orange25: #fecab3;
+$coral-orange5: #ffede6;
+
+$peach: #ff7f41;
+$peach50: #ffbb99;
+$peach5: #ffeee6;
+
+$navbar: #fbeaed;
+$footer: #f4d7d8;
+$hyperlinks: #e60000;
+
+
+$stone-grey: #888b8d;
+$stone-grey50: #bec0c1;
+$stone-grey5: #f2f2f3;
+
+$morning-sky-night: #0b2b42;
+$morning-sky-dark: #12476e;
+$morning-sky: #69b3e7;
+$morning-sky10: #d3e9f8;
+
+$sunset-pink: #e68699;
+$sunset-pink-light: #f6d5db;
+
+$warm-red: #f9423a;
+$warm-red-med: #fca19c;
+$warm-red-light: #fdd0ce;
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+
+$font-family-sans-serif: 'Manrope', sans-serif;
+
+
+// Base document colors
+$navbar-bg: $morning-sky-night; // navbar
+$navbar-fg: $morning-sky10; // navbar foreground elements
+$navbar-hl: $warm-red-med; // highlight color when hovering over navbar links
+$body-bg: $stone-grey5; // page background 
+$body-color: $morning-sky-night; // page text 
+$footer-bg: #e6eeff; // footer 
+$link-color: $hyperlinks; // hyperlinks 
+
+// Inline code
+$code-bg: $morning-sky-night; // inline code background color
+$code-color: $dark-green; // inline code text color
