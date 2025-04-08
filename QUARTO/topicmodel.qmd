@@ -1,0 +1,69 @@
+---
+title: "Mapping Applications of Computer Simulation in Orthopedic Services:  
+A Topic Modeling Approach"
+---
+
+**The paper "Mapping Applications of Computer Simulation in Orthopedic Services: A Topic Modeling Approach" has been submitted to the Winter Simulation Conference, 2025 (Seattle) under the Health & Life Sciences Track.**
+
+Orthopedic health services are characterized by high patient volumes, long elective waits, unpredictable emergency demand, and close coupling with other hospital processes. These present significant challenges for meeting operational targets and maintaining quality of care. In healthcare, simulation has been widely used for addressing such challenges. Topic modeling is used to identify and analyze academic papers using simulation to address operational-level challenges for orthopedic service delivery. We analyzed 37 papers over twenty years, combining a structured analysis with topic modeling to categorize and map applications. Despite widespread recognition of its potential, simulation remains underutilized in orthopedics, with fragmented application and limited real-world implementation. Recent trends indicate a shift toward system-wide approaches that better align with operational realities and stakeholder needs. Future research should aim to bridge methodological innovation with collaboration and practical application, such as hybrid and real-time simulation approaches focusing on stakeholder needs, and integrating relevant operational performance metrics. 
+
+**The study aims to investigate how simulation has been used to support operational-level service planning in
+trauma and orthopedic services.** The purpose of the study is to understand the current state-of-the-art, and
+to identify research gaps and opportunities to strengthen the implementation of simulation for orthopedic
+service planning. The specific aims are:  
+
+* To identify studies that have used simulation methods for evaluating orthopedic service delivery;  
+
+* To investigate methods, application areas, context of care, key performance indicators, and outcomes;  
+
+* To classify papers by topics, and map the application domain focusing on future opportunities.  
+
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+<br>
+
+![](images/topicmodel/prisma.png){width="100%"}
+----------------------------------------------------------------------
+
+![](images/topicmodel/wsc_method.png){width="100%"}
+
+
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+
+::: {.column width="20%"}
+
+<br>
+
+Alison Harper &nbsp;&nbsp;   
+[![ORCID: Harper](https://img.shields.io/badge/ORCID-0000--0001--5274--5037-blue)](https://orcid.org/0000-0001-5274-5037)
+
+Thomas Monks &nbsp;&nbsp;  
+[![ORCID: Monks](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-blue)](https://orcid.org/0000-0003-2631-4481)
+
+Navonil Mustafee &nbsp;&nbsp;  
+[![ORCID: Mustafee](https://img.shields.io/badge/ORCID-0000--0002--2204--8924-blue)](https://orcid.org/0000-0002-2204-8924)
+
+Jonathan T. Evans &nbsp;&nbsp;  
+[![ORCID: Evans](https://img.shields.io/badge/ORCID-0000--0002--9464--6261-blue)](https://orcid.org/0000-0002-9464-6261)
+
+Al-Amin Kassam &nbsp;&nbsp;  
+[![ORCID: Kassam](https://img.shields.io/badge/ORCID-0000--0002--7926--3289-blue)](https://orcid.org/0000-0002-7926-3289)
+
+<br>
+
+[<i class="fab fa-github fa-lg"></i> Check out the repository](https://github.com/pythonhealthdatascience/scope_wsc_2025)  
+to see our search strings, inclusion/exclusion
+criteria, and all data and analysis for this paper.
+:::
+
+::::

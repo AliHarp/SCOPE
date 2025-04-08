@@ -14,6 +14,17 @@
     "text": "This work has been supported by the LEAP Digital Health Hub, which has been funded by EPSRC under grant number EP/X031349/1.\nIt is a collaboration between:\nUniversity of Exeter Business School Centre for Simulation, Analyics and Modelling (CSAM):-\n\nDr Alison Harper\n\nProf Nav Mustafee\n\nUniversity of Exeter Medical School:-\n\nDr Thomas Monks\n\nDr Jon T. Evans\n\nWe are partnered with:\n\nRoyal Devon University Hospitals Trust (RDUH)"
   },
   {
+    "objectID": "QUARTO/topicmodel.html",
+    "href": "QUARTO/topicmodel.html",
+    "title": "Mapping Applications of Computer Simulation in Orthopedic Services: A Topic Modeling Approach",
+    "section": "",
+    "text": "The paper “Mapping Applications of Computer Simulation in Orthopedic Services: A Topic Modeling Approach” has been submitted to the Winter Simulation Conference, 2025 (Seattle) under the Health & Life Sciences Track.\nOrthopedic health services are characterized by high patient volumes, long elective waits, unpredictable emergency demand, and close coupling with other hospital processes. These present significant challenges for meeting operational targets and maintaining quality of care. In healthcare, simulation has been widely used for addressing such challenges. Topic modeling is used to identify and analyze academic papers using simulation to address operational-level challenges for orthopedic service delivery. We analyzed 37 papers over twenty years, combining a structured analysis with topic modeling to categorize and map applications. Despite widespread recognition of its potential, simulation remains underutilized in orthopedics, with fragmented application and limited real-world implementation. Recent trends indicate a shift toward system-wide approaches that better align with operational realities and stakeholder needs. Future research should aim to bridge methodological innovation with collaboration and practical application, such as hybrid and real-time simulation approaches focusing on stakeholder needs, and integrating relevant operational performance metrics.\nThe study aims to investigate how simulation has been used to support operational-level service planning in trauma and orthopedic services. The purpose of the study is to understand the current state-of-the-art, and to identify research gaps and opportunities to strengthen the implementation of simulation for orthopedic service planning. The specific aims are:",
+    "crumbs": [
+      "{{< fa house title='HOME' >}}HOME",
+      "Literature: Orthopaedic modelling"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "SCOPE: Simulation for Coordination of Orthopaedic Patient Emergency Services",

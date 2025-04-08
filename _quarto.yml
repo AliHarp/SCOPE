@@ -31,7 +31,8 @@ website:
     style: "docked"
     background: "#fee8e7"
     contents:
-      - text: "Literature: Orthopaedic modelling"    
+      - text: "Literature: Orthopaedic modelling"   
+        href: QUARTO/topicmodel.qmd 
 format:
   html:
     theme: 
