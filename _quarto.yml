@@ -13,8 +13,10 @@ website:
     tools:
       - icon: github
         menu: 
-          - text: Source code
+          - text: Source code for site
             href: https://github.com/AliHarp/SCOPE
+          - text: Code for literature analyis
+            href: https://github.com/pythonhealthdatascience/scope_wsc_2025
             aria-label: GitHub
       - icon: linkedin
         menu:
