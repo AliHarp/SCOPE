@@ -51,6 +51,14 @@ $warm-red-light: #fdd0ce;
 
 $font-family-sans-serif: 'Manrope', sans-serif;
 
+figure {
+  figcaption {
+    font-size: 0.9em;
+    color: #0b2b42;
+    font-style: italic;
+  }
+}
+
 
 // Base document colors
 $navbar-bg: $morning-sky-night; // navbar

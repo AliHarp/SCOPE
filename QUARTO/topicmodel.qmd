@@ -25,13 +25,11 @@ We use a structured full-text analysis combined with topic modeling to analyze a
 
 <br>
 
-![](images/topicmodel/prisma.png){width="100%"}
-PRISMA-compliant workflow  
+![PRISMA-compliant workflow: Haddaway NR, Page MJ, Pritchard CC, McGuinness LA. PRISMA2020: An R package and Shiny app for producing PRISMA 2020-compliant flow diagrams, with interactivity for optimised digital transparency and Open Synthesis. Campbell Syst Rev. 2022 Mar 27;18(2):e1230. doi: 10.1002/cl2.1230.](images/topicmodel/prisma.png){width="100%"}
 
 ----------------------------------------------------------------------
 
-![](images/topicmodel/wsc_method.png){width="100%"}
-Analysis framework
+![Analysis framework](images/topicmodel/wsc_method.png){width="100%"}
 
 
 :::
@@ -68,3 +66,5 @@ criteria, and all data and analysis for this paper.
 :::
 
 ::::
+
+<hr>
