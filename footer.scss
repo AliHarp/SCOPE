@@ -1,0 +1,35 @@
+/* css styles */
+
+// footer.scss  (place it in assets/ or wherever your other SCSS lives)
+
+// Optional: grab Quarto's Bootstrap vars (only if you already import bootstrap)
+* @import "bootstrap/scss/bootstrap"; */
+
+$footer-gap: 1.25rem;           // tweak spacing in one place
+$logo-height: 40px;
+
+.footer-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $footer-gap;
+  justify-content: space-evenly; // change to flex-start / center / between
+
+  a {
+    // makes the whole logo clickable without affecting flex gaps
+    display: block;
+  }
+
+  img {
+    height: $logo-height;
+    object-fit: contain;        // keeps aspect ratio
+  }
+}
+
+// Optional dark-mode adjustment
+@media (prefers-color-scheme: dark) {
+  .footer-logos img {
+    // knock out dark logos on a dark background
+    filter: brightness(0) invert(1);
+  }
+}
+
