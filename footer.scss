@@ -1,0 +1,29 @@
+/* css styles */
+
+/* footer.scss  ─────────────────────────────────────────── */
+/* One-row logo bar that scrolls horizontally on narrow screens */
+
+.footer-logos {
+  display:  flex;
+  flex-wrap: nowrap;             /* never wrap — stay one row   */
+  gap:      3rem;                /* equal gap between logos     */
+  justify-content: center;       /* centre the whole row        */
+  align-items:    center;        /* vertical alignment          */
+  padding: 3rem 0;             /* space above & below         */
+
+  overflow-x: auto;              /* phone: allow sideways drag  */
+  scrollbar-width: none;         /* hide Firefox scrollbar      */
+}
+.footer-logos::-webkit-scrollbar { display: none; }  /* hide Chrome/Safari scrollbar */
+
+.footer-logos img {
+  height: 50px;                  /* every logo same height      */
+  width:  auto;                  /* auto width keeps aspect     */
+  object-fit: contain;
+}
+
+.footer-logos img.scale {
+  transform: scale(1.5);      /* 20 % larger */
+  transform-origin: center;
+}
+

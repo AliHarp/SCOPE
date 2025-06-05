@@ -31,7 +31,6 @@ We use a structured full-text analysis combined with topic modeling to analyze a
 
 ![Analysis framework](images/topicmodel/wsc_method.png){width="100%"}
 
-
 :::
 
 ::: {.column width="10%"}
@@ -63,6 +62,8 @@ Al-Amin Kassam &nbsp;&nbsp;
 [<i class="fab fa-github fa-lg"></i> Check out the repository](https://github.com/pythonhealthdatascience/scope_wsc_2025)  
 to see our search strings, inclusion/exclusion
 criteria, and all data and analysis for this paper.
+
+![](images/scope4.webp){width="80%"}
 :::
 
 ::::

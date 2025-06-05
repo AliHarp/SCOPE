@@ -1,9 +1,7 @@
 /*-- scss:defaults --*/
 
-.navbar-brand img { 
-  max-height: 75px;
-  width: auto;
-}
+/* styles.scss (your original file) */
+
 
 // colours exeter branding
 $night-green: #022020;
@@ -46,20 +44,6 @@ $warm-red: #f9423a;
 $warm-red-med: #fca19c;
 $warm-red-light: #fdd0ce;
 
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
-
-
-$font-family-sans-serif: 'Manrope', sans-serif;
-
-figure {
-  figcaption {
-    font-size: 0.9em;
-    color: #12476e;
-    font-style: italic;
-  }
-}
-
-
 // Base document colors
 $navbar-bg: $morning-sky-night; // navbar
 $navbar-fg: $morning-sky10; // navbar foreground elements
@@ -69,6 +53,27 @@ $body-color: $morning-sky-night; // page text
 $footer-bg: #e6eeff; // footer 
 $link-color: $hyperlinks; // hyperlinks 
 
+$font-family-sans-serif: 'Manrope', sans-serif;
+
+@import "footer";
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+.navbar-brand img { 
+  max-height: 55px;
+  width: auto;
+}
+
+
+figure {
+  figcaption {
+    font-size: 0.9em;
+    color: #12476e;
+    font-style: italic;
+  }
+}
+
 // Inline code
 $code-bg: $morning-sky-night; // inline code background color
-$code-color: $dark-green; // inline code text color
+$code-color: $dark-green; // inline code text color 
+

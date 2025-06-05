@@ -1,10 +1,16 @@
 project:
   type: website
+  resources:
+    - "QUARTO/images/**"
 
 website:
   title: ""
   favicon: QUARTO/images/SCOPElogo.png
-  page-footer: This website was created with [Quarto](https://quarto.org/)
+  page-footer: |
+    <div class="footer-logos">
+      <img src="/QUARTO/images/LEAP/LEAP_Logo_Red-300.png    " alt="LEAP">
+      <img src="/QUARTO/images/LEAP/EPSRC.png"             alt="EPSRC">
+    </div>
   page-navigation: true
   back-to-top-navigation: true
   navbar:
@@ -21,7 +27,8 @@ website:
       - icon: linkedin
         menu:
           - text: LEAP Digital Health Hub
-            href: https://www.linkedin.com/showcase/leap-dh-hub/posts/?feedView=all
+            href: https://www.linkedin.com/showcase/leap-dh-hub/posts/?feedView=all        
+            
     logo: QUARTO/images/SCOPE.png
     right:
       - href: index.qmd
@@ -37,19 +44,19 @@ website:
         href: QUARTO/topicmodel.qmd 
 format:
   html:
-    theme: 
+    theme:
       light: styles.scss
     toc: true
     toc-location: right-body
     number-sections: false
     number-depth: 3
     freeze: auto
-    page-layout: full 
+    page-layout: full
     grid:
       sidebar-width: 400px
       body-width: 900px
       margin-width: 300px
-      gutter-width: 1.5rem
+      gutter-width: 1.5rem  
 
 editor: visual
 
